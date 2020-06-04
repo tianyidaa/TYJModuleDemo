@@ -1,0 +1,21 @@
+PODS:
+  - TYJLogining (0.1.0)
+  - TYJNetworking (0.1.0)
+
+DEPENDENCIES:
+  - TYJLogining (from `Lib/TYJLogining`)
+  - TYJNetworking (from `Lib/TYJNetworking`)
+
+EXTERNAL SOURCES:
+  TYJLogining:
+    :path: Lib/TYJLogining
+  TYJNetworking:
+    :path: Lib/TYJNetworking
+
+SPEC CHECKSUMS:
+  TYJLogining: bd1dc7875e0355ca1b24a4c40aea684854da4cf2
+  TYJNetworking: 346b04c19a523d0b6ba742c8c20a25daf3551bc2
+
+PODFILE CHECKSUM: 9f267d5487ed6e2c0b816c5ecac6cae04d978db5
+
+COCOAPODS: 1.9.3
